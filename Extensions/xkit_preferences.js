@@ -718,7 +718,6 @@ XKit.extensions.xkit_preferences = new Object({
 			$(document).on('click','.xkit-tour-cancel', function() {
 
 				XKit.window.close();
-				XKit.extensions.xkit_preferences.close();
 
 			});
 
